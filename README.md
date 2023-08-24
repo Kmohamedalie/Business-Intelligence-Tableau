@@ -7,9 +7,15 @@
 **Final Case study Dashboard:** [Office Store - Sales Data]()
 
 
-<div align="center">
+<div>
 
-
+This project (Office Store -Sales data) was completed as part of a hands on practical learning with Tableau by [Coporate Finance Institute Tableau Fundamentals Course](). 
+Where I worked on:
+ -  data wrangling
+ -  data transformations
+ -  attribute creation
+ -  data visualization and
+ -  Dashboarding
 
 
 
