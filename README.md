@@ -20,6 +20,7 @@ Where I worked on:
 
 
  <div align="center">
+  <a href="https://kmohamedalie.github.io/Business-Intelligence-Tableau/>
       <div
         class="tableauPlaceholder"
         id="viz1692836113500"
@@ -52,6 +53,7 @@ Where I worked on:
           <param name="display_count" value="yes" />
           <param name="language" value="en-GB" />
         </object>
+  </a>
       </div>
      
 <br>
