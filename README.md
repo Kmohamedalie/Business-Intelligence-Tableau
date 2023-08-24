@@ -22,5 +22,5 @@
 
 
 <div align="left">
-source: <a href="https://public.tableau.com/views/DrinkoReport-DynamicDashboard/DrinkoReport-DynamicDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link">Tableau Public</a>
+source: <a href="">Tableau Public</a>
 </div>
