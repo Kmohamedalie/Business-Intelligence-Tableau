@@ -9,7 +9,7 @@
 
 <div>
 
-This project (Office Store -Sales data) was completed as part of a hands on practical learning with Tableau by [Coporate Finance Institute Tableau Fundamentals Course](). 
+This project (Office Store -Sales data) was completed as part of a hands on practical learning with Tableau by [Coporate Finance Institute Tableau Fundamentals Course](https://learn.corporatefinanceinstitute.com/course/tableau-fundamentals). 
 Where I worked on:
  -  data wrangling
  -  data transformations
