@@ -17,7 +17,7 @@ Where I worked on:
  -  data visualization and
  -  Dashboarding
 </div>
-
+  </a>
 
  <div align="center">
   <a href="https://kmohamedalie.github.io/Business-Intelligence-Tableau/>
@@ -53,7 +53,6 @@ Where I worked on:
           <param name="display_count" value="yes" />
           <param name="language" value="en-GB" />
         </object>
-  </a>
       </div>
      
 <br>
