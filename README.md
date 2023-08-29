@@ -7,7 +7,7 @@
 **Final Case study Dashboard:** [Office Store - Sales Data](https://kmohamedalie.github.io/Business-Intelligence-Tableau/)
 
 
-<div>
+<div> 
 
 This project (Office Store -Sales data) was completed as part of a hands on practical learning with Tableau by [Coporate Finance Institute Tableau Fundamentals Course](https://learn.corporatefinanceinstitute.com/course/tableau-fundamentals). 
 Where I worked on:
