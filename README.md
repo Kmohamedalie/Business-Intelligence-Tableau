@@ -15,7 +15,7 @@ Where I worked on:
  -  data transformations
  -  attribute creation
  -  data visualization and
- -  Dashboarding
+ -  Dashboarding 
 </div>
   </a>
 
