@@ -16,7 +16,7 @@ Where I worked on:
  -  attribute creation
  -  data visualization and 
  -  Dashboarding 
-</div>
+</div> 
   </a>
 
  <div align="center">
